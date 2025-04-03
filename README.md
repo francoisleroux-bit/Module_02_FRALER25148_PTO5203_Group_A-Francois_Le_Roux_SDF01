@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+#  My First Repo 🚀
 
-# 👋 Hi, I'm Francois
+# Hi, I'm Francois👋 
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
