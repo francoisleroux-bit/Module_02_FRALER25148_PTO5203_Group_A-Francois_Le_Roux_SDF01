@@ -19,9 +19,9 @@
 
 **Currently learning:**
 
-- ![Git](https://learn.codespace.co.za/courses/75/modules/629/lessons/2750)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- ![GitHub](https://learn.codespace.co.za/courses/75/modules/629/lessons/2756)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
 **Future Technologies:**
 
