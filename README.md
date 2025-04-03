@@ -19,9 +19,9 @@
 
 **Currently learning:**
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Git](https://learn.codespace.co.za/courses/75/modules/629/lessons/2750)
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- ![GitHub](https://learn.codespace.co.za/courses/75/modules/629/lessons/2756)
 
 **Future Technologies:**
 
@@ -66,7 +66,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/francoisleroux-bit) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 📧 Email: [francoisl3roux@gmail.com](mailto:francoisl3roux@gmail.com)
 
@@ -80,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francoisleroux-bit&show_icons=true&theme=radical)
